@@ -32,11 +32,6 @@ The dashboard includes slicers to filter the report by:
 - IMDb_Movies_PowerBI_Dashboard.pbix
 - IMDb_Movies_Dataset.csv
 
-## Dashboard
-
-Add a screenshot of the dashboard here after uploading it to the repository.
-
-![Dashboard](dashboard.png)
 
 ## What I learned
 
